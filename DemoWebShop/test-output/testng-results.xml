@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T19:22:54 IST" name="Suite" finished-at="2024-03-21T19:23:32 IST" duration-ms="37395">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T19:22:54 IST" name="Test" finished-at="2024-03-21T19:23:32 IST" duration-ms="37395">
+      <class name="cricket.BcciTest">
+        <test-method signature="bcci()[pri:0, instance:cricket.BcciTest@5c30a9b0]" started-at="2024-03-21T19:23:15 IST" name="bcci" finished-at="2024-03-21T19:23:25 IST" duration-ms="10763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcci -->
+      </class> <!-- cricket.BcciTest -->
+      <class name="cricket.CrickInfoTest">
+        <test-method signature="crickinfo()[pri:0, instance:cricket.CrickInfoTest@635eaaf1]" started-at="2024-03-21T19:22:55 IST" name="crickinfo" finished-at="2024-03-21T19:23:15 IST" duration-ms="19939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crickinfo -->
+      </class> <!-- cricket.CrickInfoTest -->
+      <class name="cricket.CrickHeroesTest">
+        <test-method signature="crickHeroes()[pri:0, instance:cricket.CrickHeroesTest@1ddf84b8]" started-at="2024-03-21T19:23:25 IST" name="crickHeroes" finished-at="2024-03-21T19:23:32 IST" duration-ms="6596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crickHeroes -->
+      </class> <!-- cricket.CrickHeroesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
